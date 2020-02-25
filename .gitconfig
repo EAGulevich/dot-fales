@@ -1,0 +1,7 @@
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd) %C(bold blue)[%an]%Creset' --abbrev-commit --date=short
+[user]
+	email = meteorgul@gmail.com
+	name = Ekaterina Gulevich
+[credential]
+	helper = store
